@@ -2,4 +2,4 @@
 My first website
 
 ## My Favorite Class
-![Anime picture](Capture.JPG)
+![anime landscape.jpg](Capture.JPG)
